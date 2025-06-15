@@ -37,6 +37,11 @@ Este repositório contém a base de um sistema embarcado em C para a placa Bitdo
 
 ---
 
+## Fluxograma do Sistema
+
+![Fluxograma do Projeto](images/fluxoo.png)
+
+
 ## 🚀 Como Compilar e Enviar
 
 1. **Pré-requisitos**  
