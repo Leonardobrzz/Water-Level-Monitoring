@@ -1,0 +1,14 @@
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Build, binários e arquivos temporários
+build/
+*.o
+*.elf
+*.map
+
+# Artefatos do sistema
+.DS_Store
+Thumbs.db
+build
